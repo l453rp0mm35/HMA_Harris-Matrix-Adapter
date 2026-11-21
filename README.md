@@ -12,7 +12,7 @@
 programs. It reads your data, assigns the columns to their roles through a *mapping schema* that you set up once, and
 writes a ready-to-open file:
 
-- an `.hmcx` project file for the **[Harris Matrix Composer (HMC)](http://www.harrismatrixcomposer.com)**, or
+- an `.hmcx` project file for the **[Harris Matrix Composer (HMC)](https://hmc.archpro.science/)**, or
 - a `.json` file for the **[Harris Matrix Editor (HME)](https://github.com/oeai-dac/HME-HarrisMatrixEditor)**.
 
 ```
