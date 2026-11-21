@@ -12,7 +12,7 @@
 nutzbar. HMA liest deine Daten, ordnet die Spalten über ein einmal eingerichtetes *Mapping-Schema* ihren Aufgaben
 zu und schreibt eine fertig zu öffnende Datei:
 
-- eine `.hmcx`-Projektdatei für den **[Harris Matrix Composer (HMC)](http://www.harrismatrixcomposer.com)** oder
+- eine `.hmcx`-Projektdatei für den **[Harris Matrix Composer (HMC)](https://hmc.archpro.science/)** oder
 - eine `.json`-Datei für den **[Harris Matrix Editor (HME)](https://github.com/oeai-dac/HME-HarrisMatrixEditor)**.
 
 ```
