@@ -1,0 +1,96 @@
+﻿SU ID;Category;Period;Phase;lies above;lies below;contemporary with;Name;Finds
+XTESTX_0;Levelling;;Phase 1;XTESTX_6, XTESTX_65;;;Levelling 0;yes
+XTESTX_1;Wall;Period 1;Phase 8;XTESTX_9999;XTESTX_10, XTESTX_15, XTESTX_23, XTESTX_27;;Wall 1;
+XTESTX_2;Wall;Period 1;Phase 7;;XTESTX_34;;Wall 2;
+XTESTX_3;Deposit;Period 2;Phase 3;XTESTX_89;XTESTX_5, XTESTX_74;;Deposit 3;yes
+XTESTX_4;Wall;Period 1;Phase 8;;XTESTX_72, XTESTX_81, XTESTX_91;XTESTX_38;Wall 4;
+XTESTX_5;Deposit;;Phase 2;XTESTX_3, XTESTX_35, XTESTX_74;XTESTX_26;;Deposit 5;yes
+XTESTX_6;Deposit;Period 5;Phase 2;XTESTX_7;XTESTX_0;;Deposit 6;
+XTESTX_7;Deposit;Period 5;Phase 2;XTESTX_71;XTESTX_6;;Deposit 7;
+XTESTX_8;Deposit;Period 5;Phase 2;XTESTX_43;XTESTX_18;;Deposit 8;
+XTESTX_9;Fill;Period 3;Phase 6;XTESTX_90;XTESTX_46;;Fill 9;yes
+XTESTX_10;Levelling;Period 1;Phase 9;XTESTX_1;XTESTX_11, XTESTX_62;;Levelling 10;
+XTESTX_11;Wall;Period 1;Phase 10;XTESTX_10, XTESTX_23;XTESTX_36;;Wall 11;
+XTESTX_12;Deposit;Period 1;Phase 10;XTESTX_20;XTESTX_30;;Deposit 12;
+XTESTX_13;Fill;;Phase 6;XTESTX_56;XTESTX_46;;Fill 13;yes
+XTESTX_14;Deposit;;Phase 5;XTESTX_37;XTESTX_19;;Deposit 14;
+XTESTX_15;Wall;Period 1;Phase 10;XTESTX_1;XTESTX_77, XTESTX_84;;Wall 15;
+XTESTX_16;Wall;Period 1;Phase 8;XTESTX_38;XTESTX_28;;Wall 16;yes
+XTESTX_17;Deposit;;Phase 5;XTESTX_37;XTESTX_19;;Deposit 17;yes
+XTESTX_18;Interface;Period 5;Phase 2;XTESTX_8;XTESTX_63;;Interface 18;
+XTESTX_19;Levelling;Period 1;Phase 3;XTESTX_14, XTESTX_17, XTESTX_37;XTESTX_33, XTESTX_70;;Levelling 19;yes
+XTESTX_20;Levelling;Period 1;Phase 10;XTESTX_42;XTESTX_12;;Levelling 20;
+XTESTX_21;Levelling;Period 1;Phase 9;XTESTX_61, XTESTX_88;XTESTX_69;;Levelling 21;
+XTESTX_22;Wall;Period 1;Phase 9;XTESTX_92;XTESTX_69;;Wall 22;
+XTESTX_23;Levelling;Period 1;Phase 10;XTESTX_1;XTESTX_11;;Levelling 23;
+XTESTX_24;Levelling;Period 1;Phase 9;XTESTX_59;XTESTX_69;;Levelling 24;
+XTESTX_25;Wall;Period 1;Phase 8;XTESTX_72;XTESTX_57;;Wall 25;
+XTESTX_26;Levelling;Period 5;Phase 2;XTESTX_5, XTESTX_29, XTESTX_70;XTESTX_65, XTESTX_85;;Levelling 26;yes
+XTESTX_27;Wall;Period 1;Phase 10;XTESTX_1;XTESTX_42;;Wall 27;
+XTESTX_28;Wall;Period 1;Phase 7;XTESTX_16, XTESTX_38;XTESTX_46;;Wall 28;
+XTESTX_29;Deposit;Period 5;Phase 3;XTESTX_70;XTESTX_26;;Deposit 29;
+XTESTX_30;Deposit;Period 1;Phase 10;XTESTX_12;XTESTX_48, XTESTX_87;;Deposit 30;
+XTESTX_31;Levelling;Period 4;Phase 5;XTESTX_52, XTESTX_58, XTESTX_60, XTESTX_79;XTESTX_89;;Levelling 31;yes
+XTESTX_32;Fill;Period 1;Phase 10;XTESTX_82;XTESTX_88;;Fill 32;yes
+XTESTX_33;Deposit;;Phase 3;XTESTX_19;XTESTX_39, XTESTX_70;;Deposit 33;
+XTESTX_34;Wall;Period 1;Phase 7;XTESTX_2, XTESTX_69;XTESTX_46;;Wall 34;
+XTESTX_35;Fill;Period 4;Phase 5;XTESTX_57;XTESTX_5;;Fill 35;yes
+XTESTX_36;Wall;Period 1;Phase 10;XTESTX_11;XTESTX_45, XTESTX_78;;Wall 36;
+XTESTX_37;Levelling;Period 3;Phase 4;XTESTX_73;XTESTX_14, XTESTX_17, XTESTX_19;;Levelling 37;yes
+XTESTX_38;Wall;Period 1;Phase 8;;XTESTX_16, XTESTX_28, XTESTX_81;XTESTX_4;Wall 38;
+XTESTX_39;Deposit;;Phase 3;XTESTX_33;XTESTX_70;;Deposit 39;
+XTESTX_40;Fill;Period 1;Phase 8;XTESTX_49;XTESTX_46;;Fill 40;
+XTESTX_41;Fill;Period 5;Phase 2;XTESTX_93;XTESTX_71;;Fill 41;
+XTESTX_42;Wall;Period 1;Phase 10;XTESTX_27;XTESTX_20;;Wall 42;
+XTESTX_43;Levelling;Period 5;Phase 2;XTESTX_54;XTESTX_8;;Levelling 43;
+XTESTX_44;Wall;Period 1;Phase 10;XTESTX_45, XTESTX_78;XTESTX_62;;Wall 44;
+XTESTX_45;Deposit;Period 1;Phase 10;XTESTX_36;XTESTX_44;XTESTX_78;Deposit 45;
+XTESTX_46;Levelling;;Phase 5;XTESTX_9, XTESTX_13, XTESTX_28, XTESTX_34, XTESTX_40, XTESTX_67, XTESTX_94;XTESTX_55, XTESTX_64, XTESTX_86;;Levelling 46;yes
+XTESTX_47;Levelling;;Phase 9;XTESTX_9999;XTESTX_92;;Levelling 47;
+XTESTX_48;Deposit;Period 1;Phase 10;XTESTX_30;XTESTX_59;XTESTX_87;Deposit 48;
+XTESTX_49;Interface;Period 1;Phase 8;;XTESTX_40;;Interface 49;
+XTESTX_51;Deposit;Period 1;Phase 10;XTESTX_84;XTESTX_82;;Deposit 51;
+XTESTX_52;Deposit;Period 1;Phase 8;XTESTX_66;XTESTX_31;;Deposit 52;
+XTESTX_53;Fill;Period 1;Phase 10;XTESTX_80;XTESTX_61;;Fill 53;yes
+XTESTX_54;Levelling;Period 5;Phase 2;XTESTX_85;XTESTX_43;;Levelling 54;
+XTESTX_55;Levelling;;Phase 4;XTESTX_46;XTESTX_73;;Levelling 55;yes
+XTESTX_56;Interface;;Phase 6;;XTESTX_13;;Interface 56;
+XTESTX_57;Deposit;;Phase 4;XTESTX_25;XTESTX_35;;Deposit 57;
+XTESTX_58;Wall;Period 1;Phase 7;XTESTX_72, XTESTX_91, XTESTX_95;XTESTX_31;;Wall 58;
+XTESTX_59;Wall;Period 1;Phase 10;XTESTX_48, XTESTX_87;XTESTX_24;;Wall 59;
+XTESTX_60;Wall;Period 1;Phase 8;XTESTX_62, XTESTX_76;XTESTX_31, XTESTX_66, XTESTX_79;;Wall 60;
+XTESTX_61;Wall;Period 1;Phase 10;XTESTX_53;XTESTX_21;;Wall 61;
+XTESTX_62;Wall;Period 1;Phase 8;XTESTX_10, XTESTX_44;XTESTX_60, XTESTX_76;;Wall 62;yes
+XTESTX_63;Deposit;Period 5;Phase 2;XTESTX_18;XTESTX_93;;Deposit 63;
+XTESTX_64;Deposit;;Phase 4;XTESTX_46;XTESTX_70;;Deposit 64;yes
+XTESTX_65;Wall;Period 5;Phase 2;XTESTX_26;XTESTX_0;;Wall 65;yes
+XTESTX_66;Interface;Period 2;Phase 6;XTESTX_60;XTESTX_52;;Interface 66;
+XTESTX_67;Wall;Period 1;Phase 7;XTESTX_72;XTESTX_46;;Wall 67;
+XTESTX_69;Wall;Period 1;Phase 8;XTESTX_21, XTESTX_22, XTESTX_24;XTESTX_34, XTESTX_90, XTESTX_94;;Wall 69;
+XTESTX_70;Levelling;Period 5;Phase 3;XTESTX_19, XTESTX_33, XTESTX_39, XTESTX_64, XTESTX_75, XTESTX_81;XTESTX_26, XTESTX_29;;Levelling 70;yes
+XTESTX_71;Fill;Period 5;Phase 2;XTESTX_41;XTESTX_7;;Fill 71;
+XTESTX_72;Wall;Period 1;Phase 8;XTESTX_4;XTESTX_25, XTESTX_58, XTESTX_67;XTESTX_95;Wall 72;
+XTESTX_73;Levelling;;Phase 4;XTESTX_55;XTESTX_37;;Levelling 73;yes
+XTESTX_74;Deposit;;Phase 3;XTESTX_3;XTESTX_5;;Deposit 74;
+XTESTX_75;Wall;;Phase 5;XTESTX_86;XTESTX_70;;Wall 75;yes
+XTESTX_76;Deposit;Period 1;Phase 8;XTESTX_62;XTESTX_60;;Deposit 76;yes
+XTESTX_77;Wall;Period 1;Phase 10;XTESTX_15;XTESTX_83;;Wall 77;yes
+XTESTX_78;Fill;Period 1;Phase 10;XTESTX_36;XTESTX_44;XTESTX_45;Fill 78;yes
+XTESTX_79;Wall;Period 4;Phase 5;XTESTX_60;XTESTX_31;;Wall 79;yes
+XTESTX_80;Fill;Period 1;Phase 10;XTESTX_83;XTESTX_53;;Fill 80;yes
+XTESTX_81;Wall;Period 4;Phase 5;XTESTX_4, XTESTX_38;XTESTX_70;;Wall 81;yes
+XTESTX_82;Fill;Period 1;Phase 10;XTESTX_51;XTESTX_32;;Fill 82;yes
+XTESTX_83;Deposit;Period 1;Phase 10;XTESTX_77;XTESTX_80;;Deposit 83;
+XTESTX_84;Wall;Period 1;Phase 10;XTESTX_15;XTESTX_51;;Wall 84;yes
+XTESTX_85;Deposit;Period 5;Phase 2;XTESTX_26;XTESTX_54;;Deposit 85;
+XTESTX_86;Deposit;;Phase 4;XTESTX_46;XTESTX_75;;Deposit 86;
+XTESTX_87;Fill;Period 1;Phase 10;XTESTX_30;XTESTX_59;XTESTX_48;Fill 87;yes
+XTESTX_88;Wall;Period 1;Phase 10;XTESTX_32;XTESTX_21;;Wall 88;
+XTESTX_89;Levelling;Period 2;Phase 3;XTESTX_31;XTESTX_3;;Levelling 89;yes
+XTESTX_90;Interface;Period 2;Phase 6;XTESTX_69;XTESTX_9;;Interface 90;
+XTESTX_91;Wall;Period 1;Phase 8;XTESTX_4;XTESTX_58;XTESTX_95;Wall 91;
+XTESTX_92;Levelling;Period 1;Phase 9;XTESTX_47;XTESTX_22;;Levelling 92;
+XTESTX_93;Deposit;Period 5;Phase 2;XTESTX_63;XTESTX_41;;Deposit 93;
+XTESTX_94;Wall;Period 1;Phase 7;XTESTX_69;XTESTX_46;;Wall 94;
+XTESTX_95;Wall;Period 1;Phase 8;;XTESTX_58;XTESTX_72, XTESTX_91;Wall 95;
+XTESTX_9999;Interface;;Phase 8;;XTESTX_1, XTESTX_47;;Interface 9999;
